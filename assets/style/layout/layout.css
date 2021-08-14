@@ -1,0 +1,24 @@
+header h1 a {
+  font-size: 200px;
+  width: 112px;
+  height: 48px;
+  background: url(https://raw.githubusercontent.com/hexschool/webLayoutTraining1st/8d1ef3b63951b7f749edd130ff66e4d4856a3df2/week7/logo-fixie.svg) no-repeat;
+  display: block;
+  text-indent: 101%;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+header .header-nav ul {
+  width: 290px;
+}
+
+footer .footer-main {
+  max-width: 960px;
+}
+
+footer .footer-main .footer-nav ul {
+  width: 290px;
+}
+
+/*# sourceMappingURL=layout.css.map */
