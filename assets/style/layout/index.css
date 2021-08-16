@@ -1,2 +1,22 @@
+.slogan .slogan-main {
+  max-width: 15%;
+}
+
+.index-banner {
+  width: 100vw;
+  height: 640px;
+  background: url(https://images.unsplash.com/photo-1498036471282-05a678a132e8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=80) no-repeat;
+  background-position: center 30%;
+  background-size: cover;
+}
+
+.index-banner .index-banner-slogan {
+  max-width: 450px;
+  max-height: 139px;
+}
+
+.index-introduce img {
+  height: 600px;
+}
 
 /*# sourceMappingURL=index.css.map */
