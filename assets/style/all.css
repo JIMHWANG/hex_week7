@@ -14814,6 +14814,10 @@ fieldset:disabled .btn {
   }
 }
 
+.text-right {
+  text-align: right !important;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -14869,6 +14873,58 @@ footer .footer-main .footer-nav ul {
   border: 1px solid #000;
   margin: 0;
   width: 100%;
+}
+
+.variations .container {
+  max-width: 100vw;
+  height: 960px;
+}
+
+.variations .container .row {
+  height: 100%;
+}
+
+.variations .container .row img {
+  width: 100%;
+  min-height: 100%;
+}
+
+.variations .Read-more-arrow {
+  width: 150px;
+}
+
+.variations .Read-more-arrow a {
+  width: 40%;
+}
+
+.variations .Read-more-arrow .Read-more-arrow-blank {
+  width: 60%;
+}
+
+.performance .container {
+  max-width: 100vw;
+  height: 960px;
+}
+
+.performance .container .row {
+  height: 100%;
+}
+
+.performance .container .row img {
+  width: 100%;
+  min-height: 100%;
+}
+
+.performance .Read-more-arrow {
+  width: 150px;
+}
+
+.performance .Read-more-arrow a {
+  width: 40%;
+}
+
+.performance .Read-more-arrow .Read-more-arrow-blank {
+  width: 60%;
 }
 
 .slogan .slogan-main {
